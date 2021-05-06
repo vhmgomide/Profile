@@ -1,9 +1,11 @@
  # **Opa, eu sou Victor** 
 
-## Formação 
 
-* 💻 Analista de Dados.
-* 📚 Constante aprendendor.
+## Em resumo 
+* 💻 Analista de Dados
+* 📚 Aprendedor
+
+## Formação 
 * 🎓 Engenharia da Computação - PUC Goiás.
 * 🎓 Pós em Adiministração de Empresas - FGV.
 
