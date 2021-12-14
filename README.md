@@ -11,11 +11,11 @@
 
 ## Habilidades 💻
 
-* 🧮 Power BI.
+* 🧮 Power BI
 * 📊 Data Visualization
 * 📊 Excel 
-* 🐍 Python.
-* 🗄 SQL.
+* 🐍 Python
+* 🗄 SQL
 
 ## Links:
 
@@ -28,4 +28,4 @@
 
 ## **Projetos para Aprendizado**
 
-#### :white_check_mark: [ML - Classificação - Doenças Coronárias](https://github.com/vhmgomide/ImersaoDados_Alura_202105)
+#### :white_check_mark: 
