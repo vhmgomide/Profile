@@ -20,6 +20,7 @@
 ## Links:
 
 *  [Linkedin]( https://www.linkedin.com/in/victor-gomide/)
+*  [Currículo Power BI](https://app.powerbi.com/view?r=eyJrIjoiMzA5OGQ2NmUtZmIyZS00NzFjLWI0NjItMWNkNGI2MzEyNzY1IiwidCI6IjMwMjJjNzRlLTIwZjAtNDdjMy04M2IwLWRjZjI5ZDQyNGMxZCJ9)
 
 
 ## **Meus Projetos**
